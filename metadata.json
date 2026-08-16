@@ -1,0 +1,6 @@
+{
+  "name": "OmniPOS SaaS - Hospitality & Restaurant Management",
+  "description": "Commercial-grade multi-tenant Hotel & Restaurant Point of Sale SaaS platform with Front-of-House registers, Kitchen Display System (KDS), room charging & PMS integration, recipe/inventory tracking, offline-first outbox synchronization, fiscalization adapters, and real-time operational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
